@@ -2,7 +2,7 @@ var currentTabId = null;
 var gettingCurrent = null;
 
 function onExecuted(result) {
-	console.log(`Design Mode Toggleds`);
+	console.log(`Design Mode Toggled.`);
 }
 
 
