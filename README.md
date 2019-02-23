@@ -1,0 +1,1 @@
+# FoxDesign - A Simple Firefox Extension to Toggle In-Browser Design Mode
